@@ -336,7 +336,7 @@ h1 { margin: 0; }
 #about p
   {
     font-weight: 400;
-    font-size: 25px; 
+    font-size: 20px; 
   }
 /* end about */
 
@@ -494,6 +494,7 @@ ul
 #service
   {
     font-weight: 400;
+    font-size: 20px; 	  
   }
 /* end service */
 
@@ -572,6 +573,7 @@ ul
 #work p
   {
     font-weight: 400;
+    font-size: 20px; 	  
     margin: 0 0 40px 0;
   }
 #work .col-md-4
