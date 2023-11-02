@@ -361,7 +361,7 @@ h1 { margin: 0; }
   }
 #team .team_thumb img
   {
-    width: 100%;
+    width: 80%;
     height: 200px;
   }
   h5 {
@@ -370,7 +370,7 @@ h1 { margin: 0; }
 #team .team_thumb .team_overlay
   {
     background: #FFFFFF;
-    width: 100%;
+    width: 80%;
     height: 100%;
     top: 0;
     bottom: 0;
