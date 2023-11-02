@@ -371,7 +371,7 @@ h1 { margin: 0; }
 #team .team_thumb .team_overlay
   {
     background: #FFFFFF;
-    width: 80%;
+    width: 80%; /*lets see if this works*/
     height: 100%;
     top: 0;
     bottom: 0;
