@@ -309,6 +309,7 @@ h1 { margin: 0; }
 #about h3
   {
     font-weight: bold;
+    font-size: 30px;	  
   }
 #about .col-md-7 h3
   {
@@ -351,6 +352,7 @@ h1 { margin: 0; }
 #team h3
   {
     font-weight: bold;
+    font-size: 30px;	  	  
     letter-spacing: 1px!important;
     padding-bottom: 30px;
   }
@@ -463,6 +465,7 @@ ul
 #service h3
   {
     color: #333;
+    font-size: 30px;	  	  
     font-weight: bold;
     letter-spacing: 1px !important;
     padding-bottom: 30px;
@@ -567,6 +570,7 @@ ul
 #work h3
   {
     font-weight: bold;
+    font-size: 30px;	  	  
     letter-spacing: 1px !important;
     padding-bottom: 30px;
   }
