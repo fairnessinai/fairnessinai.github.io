@@ -337,7 +337,9 @@ h1 { margin: 0; }
 #about p
   {
     font-weight: 400;
-    font-size: 20px; 
+    font-size: 20px;
+    text-align: justify;
+    text-justify: inter-word;	  
   }
 /* end about */
 
@@ -586,12 +588,16 @@ ul
     font-size: 20px;	  
     font-weight: 400; 	  
     margin: 0 0 40px 0;
+    text-align: justify;
+    text-justify: inter-word;	  
   }
 
 #work li
   {
     font-size: 20px;	  
-    font-weight: 400; 	  
+    font-weight: 400;
+    text-align: justify;
+    text-justify: inter-word;	  
   }  
 #work .col-md-4
   {
