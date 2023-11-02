@@ -650,6 +650,28 @@ ul
   }
 /* end work */
 
+/* start venue*/
+
+#venue
+{
+    min-height: 300px;
+}
+
+#venue h3
+{
+    font-weight: bold;
+    font-size: 30px;	
+}
+
+#venue p
+{
+    font-weight: 400;
+    font-size: 20px;
+    text-align: justify;
+    text-justify: inter-word;	
+}
+
+/*end venue*/
 /* start pricing */
 #pricing
   {
