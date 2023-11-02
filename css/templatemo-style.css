@@ -574,12 +574,25 @@ ul
     letter-spacing: 1px !important;
     padding-bottom: 30px;
   }
+#work h4
+  {
+    font-weight: bold;
+    font-size: 25px;	  	  
+    letter-spacing: 1px !important;
+    padding-bottom: 30px;
+  }  
 #work p
   {
-    font-size: 25px;	  
+    font-size: 20px;	  
     font-weight: 400; 	  
     margin: 0 0 40px 0;
   }
+
+#work li
+  {
+    font-size: 20px;	  
+    font-weight: 400; 	  
+  }  
 #work .col-md-4
   {
     padding: 2px;
