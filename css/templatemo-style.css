@@ -336,6 +336,7 @@ h1 { margin: 0; }
 #about p
   {
     font-weight: 400;
+    font-size: 25px; 
   }
 /* end about */
 
