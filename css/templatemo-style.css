@@ -159,7 +159,7 @@ h1 { margin: 0; }
 .slider-caption {
   color:rgb(44, 178, 64);
   margin: 0;
-  font-size: 25px;
+  font-size: 40px;
   position: absolute;
   top: 0;
   left: 0;
@@ -184,7 +184,7 @@ h1 { margin: 0; }
 #home h2
   {
     font-weight: bold;
-    font-size: 30px;
+    font-size: 40px;
   }
 #home h2
   {
