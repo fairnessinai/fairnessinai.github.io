@@ -159,6 +159,7 @@ h1 { margin: 0; }
 .slider-caption {
   color:rgb(44, 178, 64);
   margin: 0;
+  font-size: 25px;
   position: absolute;
   top: 0;
   left: 0;
