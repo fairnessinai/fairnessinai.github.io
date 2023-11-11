@@ -124,7 +124,7 @@ body
 /* end navigation */
 
 /* start home */
-h1 { margin: 0; font-size: larger; }
+h1 { margin: 0; font-size: 45px; }
 #home { padding-top: 65px; }
 .flexslider {
   margin: 0 0 60px;
@@ -157,7 +157,8 @@ h1 { margin: 0; font-size: larger; }
   width: 100%;
 }
 .slider-caption {
-  color:rgb(44, 178, 64);
+  /*color:rgb(44, 178, 64);*/
+  color:rgb(0, 0, 0);
   margin: 0;
   font-size: 60px;
   position: absolute;
@@ -182,13 +183,13 @@ h1 { margin: 0; font-size: larger; }
 }
 #home h1
 {
-    font-size: 40px;
+    font-size: 45px;
     font-weight: bold;	
 }
 #home h2
   {
     font-weight: bold;
-    font-size: xx-large;
+    font-size: x-large;
   }
 #home h2
   {
