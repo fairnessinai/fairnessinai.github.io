@@ -124,7 +124,7 @@ body
 /* end navigation */
 
 /* start home */
-h1 { margin: 0; font-size: xxx-large; }
+h1 { margin: 0; font-size: larger; }
 #home { padding-top: 65px; }
 .flexslider {
   margin: 0 0 60px;
@@ -159,7 +159,7 @@ h1 { margin: 0; font-size: xxx-large; }
 .slider-caption {
   color:rgb(44, 178, 64);
   margin: 0;
-  font-size: xxx-large;
+  font-size: larger;
   position: absolute;
   top: 0;
   left: 0;
