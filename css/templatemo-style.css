@@ -124,7 +124,7 @@ body
 /* end navigation */
 
 /* start home */
-h1 { margin: 0; font-size: 45px; }
+h1 { margin: 0; font-size: 45px; color: rgb(0, 0, 0);}
 #home { padding-top: 65px; }
 .flexslider {
   margin: 0 0 60px;
@@ -158,7 +158,7 @@ h1 { margin: 0; font-size: 45px; }
 }
 .slider-caption {
   /*color:rgb(44, 178, 64);*/
-  color:rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
   margin: 0;
   font-size: 60px;
   position: absolute;
@@ -189,7 +189,7 @@ h1 { margin: 0; font-size: 45px; }
 #home h2
   {
     font-weight: bold;
-    font-size: x-large;
+    font-size: 25px;
   }
 #home h2
   {
