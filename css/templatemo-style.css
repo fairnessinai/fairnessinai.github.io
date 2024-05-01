@@ -567,7 +567,10 @@ ul
     color: #66AF33;
   }
 /* end newsletter */
-
+#program table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
 /* start work */
 #work
   {
