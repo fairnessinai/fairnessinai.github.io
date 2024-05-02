@@ -385,7 +385,7 @@ h1 { margin: 0; font-size: 45px; color: rgb(0, 0, 0);}
 #team .team_thumb .team_overlay
   {
     background: #FFFFFF;
-    width: 90%; /*lets see if this works*/
+    width: 100%; /*lets see if this works*/
     height: 100%;
     top: 0;
     bottom: 0;
